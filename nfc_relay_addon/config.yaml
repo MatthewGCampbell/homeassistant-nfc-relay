@@ -1,0 +1,11 @@
+name: "NFC Relay"
+description: "Relay NFC information from ESPHome sensor"
+version: "1.0.0"
+slug: "nfc_relay"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
